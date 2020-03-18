@@ -5,6 +5,7 @@ public class Custumers {
 	public String getName() {
 		return fname;
 	}
+	//encapsulation
 
 	public void setName(String name) {
 		this.fname = name;
